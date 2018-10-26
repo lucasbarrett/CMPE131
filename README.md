@@ -1,5 +1,7 @@
 # CMPE131
-SJSU Calendar Project
+## SJSU Calendar Project
+
+## Description:
 The Objective of this application is to enable the user to effectively manage time 
 and be up to date with the different events scheduled at San Jose State University.
 The benefits of this android mobile application to the user of this application are 
