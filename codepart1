@@ -1,0 +1,8 @@
+<LinearLayout\
+	xmlns:android=\'93http://schemas.android.com/apk/res/android\'94\
+	xmlns:app=\'93http://schemas.android.com/apk/res-auto\'94\
+	xmlns:tools=\'93http://schemas.android.com/tools\'94\
+	android:layout_width=\'93match_parent\'94\
+	android:layout_height=\'93match_parent\'94\
+	android:orientation=\'93vertical\'94>\
+</LinearLayout>}
