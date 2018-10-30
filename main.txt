@@ -68,5 +68,6 @@ f = getSharedPreferences("f", Activity.MODE_PRIVATE);
 			startActivity(i);
 			}
 		});
+	}
 }
 }
