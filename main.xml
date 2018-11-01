@@ -12,3 +12,14 @@ andriod:layout_height="match_parent"
 andriod:padding="8dp"
 android:orientation="vertical">
 <LinearLayout
+android:id="@+id/linear2"
+android:layout_width="match_parent"
+andriod:layout_height="match_content"
+andriod:padding="8dp"
+android:orientation="horizontal">
+<LinearLayout
+android:id="@+id/linear3"
+android:layout_width="match_parent"
+andriod:layout_height="match_content"
+andriod:padding="8dp"
+android:orientation="horizontal">
